@@ -1,0 +1,13 @@
+# Logs
+*.log
+__pycache__/
+*.pyc
+
+# Sensitive - don't commit API keys
+.env
+
+# Large files
+used_articles.json
+
+# OS files
+.DS_Store
